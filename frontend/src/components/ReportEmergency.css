@@ -1,0 +1,10 @@
+.report-container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
